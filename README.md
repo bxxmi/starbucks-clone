@@ -2,7 +2,11 @@
 
 패스트캠퍼스 강의를 보고 구현한 스타벅스 랜딩 페이지 클론 프로젝트입니다.
 
-<img width="1420" alt="스크린샷 2021-08-23 오전 10 36 36" src="https://user-images.githubusercontent.com/56878724/130378488-75475144-c106-4a60-9fdf-cba982ccf4fb.png">
+<h3>🚀 Demo</h3>
+
+https://bxxmi-startbucks-clone.netlify.app/
+
+<img width="1080" alt="스크린샷 2021-08-23 오전 10 36 36" src="https://user-images.githubusercontent.com/56878724/130378488-75475144-c106-4a60-9fdf-cba982ccf4fb.png">
 
 <h3>📅 기간</h3>
 
@@ -15,15 +19,15 @@
 <h3>🛠 리팩토링 목록</h3>
 
 - [x] CSS 파일 분할 (08/23)
-- [x] 다중 선택자 :is pseudo selector 사용하기 (08/23)
-- [ ] Netlify로 배포하기
-- [ ] 로그인 페이지 구현
+- [x] 다중 선택자 :is pseudo selector 사용 (08/23)
+- [x] Netlify로 배포 (08/24)
+- [x] 로그인 페이지 구현 (08/24)
 
 <h3>❓ 알게된 점</h3>
 
 * 이미지 삽입 시 생기는 baseline은 `display: block` 사용해서 해결한다. 
 
-* CSS에서 구조를 잡기위해 반복해서 사용하는 클래스는 생략이 가능하다
+* CSS에서 구조를 잡기위해 반복해서 사용하는 클래스는 생략이 가능하다.
 
 ```css
 /* 변경 전 */
